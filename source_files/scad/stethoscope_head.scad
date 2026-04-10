@@ -1,6 +1,7 @@
 $fn=365;
 
 // Take output for original head and put it in one module
+// Please note the order of cylinder and translation operations
 module original_head() {
     union(){translate(v = [0, 0, 17.8])
     mirror(v = [0, 0, 1])
