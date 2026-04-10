@@ -1,5 +1,4 @@
-Stethoscope
-===========
+# Stethoscope JC
 
 This project aims to create a research-validated stethoscope whose plans are 
 available freely and openly. The goal is for the bell to cost ~USD$1-2 to produce, 
